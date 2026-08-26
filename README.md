@@ -57,7 +57,7 @@
 # 🌐 My Portfolio Link
 
 Experience here:
-🔗 [https://sverma1407.github.io/portfolio/](https://sverma1407.github.io/myportfolio/)
+🔗 [https://sverma1407.github.io/myportfolio/](https://sverma1407.github.io/myportfolio/)
 
 ---
 
