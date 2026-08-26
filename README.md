@@ -63,7 +63,7 @@ Experience here:
 
 # 📬 Connect With Me
 
-* 💼 **LinkedIn:** [[linkedin.com/in/shubham-verma](https://www.linkedin.com/in/shubham-verma-b52630295/)
+* 💼 **LinkedIn:** [linkedin.com/in/shubham-verma](https://www.linkedin.com/in/shubham-verma-b52630295/)
 * 🐙 **GitHub:** [github.com/sverma1407](https://github.com/sverma1407)
 * 📧 **Email:** `sv9365617@gmail.com`
 
